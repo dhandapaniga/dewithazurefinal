@@ -1,0 +1,9 @@
+{
+	"name": "df-ganesan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dbfcdd11-b0c4-4194-8764-3cbc2377b1a8",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
